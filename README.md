@@ -12,7 +12,7 @@ and 0 is the minimum (~0V). 62 represents 50% duty cycle. More information is st
 
 ## Authors
 
-* **Keenan Robinson** - [PurpleBooth](https://github.com/KeenanRobinson)
+* **Keenan Robinson** - (https://github.com/KeenanRobinson)
 
 ## Acknowledgments
 
